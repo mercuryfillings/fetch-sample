@@ -1,0 +1,11 @@
+.test {
+    color: red;
+}
+
+input:invalid {
+    border: red solid 3px;
+}
+
+.login-button {
+    color: red;
+}

@@ -10,8 +10,8 @@ const IndexPage = () => {
     <>
       <Header />
       <main>
-        <h1>Welcome to Snoot</h1>
-        <h2>Please Log In Below</h2>
+        <h1>Dog House</h1>
+        <p className='test'>Select a Dog</p>
         <Login />
       </main>
       <Footer />
@@ -19,6 +19,6 @@ const IndexPage = () => {
   )
 }
 
-export const Head = () => <title>Snoot</title>
+export const Head = () => <title>Home Page</title>
 
 export default IndexPage

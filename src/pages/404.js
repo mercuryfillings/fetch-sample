@@ -26,9 +26,9 @@ const codeStyles = {
 const NotFoundPage = () => {
   return (
     <main style={pageStyles}>
-      <h1 style={headingStyles}>Page not found</h1>
+      <h1 style={headingStyles}>LOST DOG</h1>
       <p style={paragraphStyles}>
-        Sorry 😔, we couldn’t find what you were looking for.
+        I hope you're chipped, because you're a lost dog!
         <br />
         {process.env.NODE_ENV === "development" ? (
           <>
